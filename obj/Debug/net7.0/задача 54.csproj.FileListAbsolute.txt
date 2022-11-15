@@ -1,0 +1,5 @@
+C:\Users\Beauty Glance\Desktop\задача 54\obj\Debug\net7.0\задача 54.csproj.AssemblyReference.cache
+C:\Users\Beauty Glance\Desktop\задача 54\obj\Debug\net7.0\задача 54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Beauty Glance\Desktop\задача 54\obj\Debug\net7.0\задача 54.AssemblyInfoInputs.cache
+C:\Users\Beauty Glance\Desktop\задача 54\obj\Debug\net7.0\задача 54.AssemblyInfo.cs
+C:\Users\Beauty Glance\Desktop\задача 54\obj\Debug\net7.0\задача 54.csproj.CoreCompileInputs.cache
